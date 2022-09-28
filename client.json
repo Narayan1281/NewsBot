@@ -1,12 +1,12 @@
 {
   "type": "service_account",
   "project_id": "newsbot-vxss",
-  "private_key_id": "e6874b280eced63f127fb8abaa38f11d1bfdae69",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpXDHBqJGy+qQu\nsDXS3q1cxD/eQLSmjBu0QCo2Q26Nm0JPauzY2v2vUrv8Es/KYaXXjMiR9EvRSrnl\niKKpFF45fufrci6dzW4AVViMHKopNm7K0UFMU4SUxOWt/xxKAVxMsQuGE5GEzl7r\nqTJn+HO05iHJOhrphutBjRm22yqvis861KCWM270rshOpOoDf/FRtB5vqwT+GhOA\ndTX7tzTlprY4SY9Bic/lkXfCV2XXe60HWQO+7BXR/VUaCW9ZHeVBtMDJUw7iZ8aI\n/whEE5oQUY/B5BNDUUGCdg3Kj6iX8bB4eGh1mFfJjMWbwekZp67lyzZpAa10w9sD\njLZgm02XAgMBAAECggEAQ7KzvPq6CvY/rN4JFdqnJ97WvOvWioCVDm9bsEcyKO64\nCfDu7hxTrcJ/nFqUrwxrc4c2IYmqyOV6+7KrerTGmWsOH8KLuc6FOyLie1d1+XVl\nwjL1TCJSa/ls6imA0GBM2ecneRfXYmPv83m1yXO6JMSdGsfcPB8PaSuS7NIc9P/8\nLuLiYZcFHNY9lFuYLS3pizCz8rxifZEU88wn+LyCqmvxSX9kW2eAwvUdF3uLX0Tz\nueFEDzKWGf5jtnkNBHTK/0F3Xy9OmMd0a5WoPEWvdVmFsFPFa35rfDAxhQIrEyuq\nGgz3xINW7eEGDe7dhSkGO7W0v6KqU2Y/ktnFAAVg+QKBgQDSNLVmchTR7RZy28Qd\nJ3y8DYW7ENQjo+alS3E7yWhQF4DiCJkn9mpm8SZhGfVGpfuvbqs9mi+Mg4E+/YSP\n5QuatU/FNzxcP/X1pNktj8xKwXvdTgYKuBO5+/04h/XPM7xzISQsSJ4AA9zAvTgB\nkVayl5PaW8buoAfFq4tnRwWGrQKBgQDOQX8lxXkHIvuaxqmaJPXhsblipJ5nsKYw\naNECHOwOAVGA1ezz8ggfFTb5LeI3UpDMdsAHZap0fH8tXtC6ngtlvmTR+WSN6P0s\nkqDPC/lovpG7Tr+TgDCNX3IBVJWveb0MvMhM2hv+YnPGTIPK3GFonMjcoTlbsTod\nU500dpUh0wKBgHowyYHTruaYuwPpXAbWfVuTQLmM/sP48ooDYL8wRMLJ5tF9zgm8\n4/0TEQxA2qNGuRcxbblRd3Jmvyquk/BRZH16B/TMNvoo9ADm4pfpjwelkSsDv99b\nQZxLLtc9sVXQ7Sq/iRd03uODWz9uvq+qnIsUMY4s62aq/9mX7mEKl9vBAoGAcrel\nI3oBBcIkVQK35F84Tw6NgNr0q9FprbUuwtEZTfTXwyO5BjmQ4NDo4ZDuqDyJAt/t\nkG+wbdes2KxKxfEPf8h0xQDEN9XlsrvfKymK0AJmhdqX3U9IMelrPGgyVQYN6x64\n/V22gjd6E0oNZ3BJ0Wiao3Qcte4N16/g2QQ3kDcCgYEAgYT4XzXymaod2C9rJ8BS\nPInzrZ0lRvAEOcbN0sJ6CN5NheVOLxxuG5lmXsEUIWVVirpeGXk7st1ZS0tW1Uq5\nWM8VDKSYTxmj6CHyU2ITs4v0nkRfeL47FD5pCMT8MW3SHvMPePra01c2zNBXYrHo\nu4uI1VFgV0bwmRhI5qNBpTc=\n-----END PRIVATE KEY-----\n",
-  "client_email": "newsbot-rustam@newsbot-vxss.iam.gserviceaccount.com",
-  "client_id": "118208238817800924967",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/newsbot-rustam%40newsbot-vxss.iam.gserviceaccount.com"
+  "private_key_id": "Add your private key id",
+  "private_key": "-----BEGIN PRIVATE KEY-----\n-----END PRIVATE KEY-----\n",
+  "client_email": "client email",
+  "client_id": "id",
+  "auth_uri": "https://something/auth",
+  "token_uri": "https://something/token",
+  "auth_provider_x509_cert_url": "https://something/certs",
+  "client_x509_cert_url": "https://something.com"
 }
